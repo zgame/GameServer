@@ -4,8 +4,8 @@
 package mongoDB
 
 import (
-	"GoLuaServerV2.1/Core/Utils/zLog"
-	"GoLuaServerV2.1/Core/Utils/zLua"
+	"github.com/zgame/GameServer/server/Core/Utils/zLog"
+	"github.com/zgame/GameServer/server/Core/Utils/zLua"
 	"github.com/yuin/gopher-lua"
 	"gopkg.in/mgo.v2/bson"
 )

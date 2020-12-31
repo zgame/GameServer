@@ -4,7 +4,7 @@
 package mySql
 
 import (
-	"GoLuaServerV2.1/Core/Utils/zLua"
+	"github.com/zgame/GameServer/server/Core/Utils/zLua"
 	"database/sql"
 	"fmt"
 	"net/url"

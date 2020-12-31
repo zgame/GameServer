@@ -5,7 +5,7 @@ package zStrings
 //----------------------------------------------------------------------------
 
 import (
-	"GoLuaServerV2.1/Core/Utils/zLua"
+	"github.com/zgame/GameServer/server/Core/Utils/zLua"
 	"github.com/yuin/gopher-lua"
 	"strings"
 )

@@ -2,9 +2,9 @@
 package main
 
 import (
-	"GoLuaServerV2.1Test/Core/Lua"
-	"GoLuaServerV2.1Test/Core/NetWork"
-	"GoLuaServerV2.1Test/Core/Utils/zLog"
+	"github.com/zgame/GameServer/client/Core/Lua"
+	"github.com/zgame/GameServer/client/Core/NetWork"
+	"github.com/zgame/GameServer/client/Core/Utils/zLog"
 	"flag"
 	//"util/logs"
 	//"github.com/astaxie/beego/logs"

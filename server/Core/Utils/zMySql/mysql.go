@@ -1,7 +1,7 @@
 package zMySql
 
 import (
-	"GoLuaServerV2.1/Core/Utils/ztimer"
+	"github.com/zgame/GameServer/server/Core/Utils/ztimer"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/go-xorm/xorm"

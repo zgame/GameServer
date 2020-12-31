@@ -5,11 +5,11 @@
 package main
 
 import (
-	"GoLuaServerV2.1/Core/Lua"
-	"GoLuaServerV2.1/Core/NetWork"
-	"GoLuaServerV2.1/Core/Utils/ip"
-	"GoLuaServerV2.1/Core/Utils/zLog"
-	"GoLuaServerV2.1/Core/Utils/ztimer"
+	"github.com/zgame/GameServer/server/Core/Lua"
+	"github.com/zgame/GameServer/server/Core/NetWork"
+	"github.com/zgame/GameServer/server/Core/Utils/ip"
+	"github.com/zgame/GameServer/server/Core/Utils/zLog"
+	"github.com/zgame/GameServer/server/Core/Utils/ztimer"
 	"fmt"
 	"github.com/go-ini/ini"
 	"math"

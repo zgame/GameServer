@@ -1,7 +1,7 @@
 package Lua
 
 import (
-	"GoLuaServerV2.1Test/Core/Utils/zLog"
+	"github.com/zgame/GameServer/client/Core/Utils/zLog"
 	"fmt"
 	"github.com/yuin/gopher-lua"
 )

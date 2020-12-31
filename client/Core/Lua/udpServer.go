@@ -1,8 +1,8 @@
 package Lua
 
 import (
-	"GoLuaServerV2.1Test/Core/NetWork"
-	"GoLuaServerV2.1Test/Core/Utils/zLog"
+	"github.com/zgame/GameServer/client/Core/NetWork"
+	"github.com/zgame/GameServer/client/Core/Utils/zLog"
 	"fmt"
 	"math"
 	"time"

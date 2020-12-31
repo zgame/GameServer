@@ -1,9 +1,9 @@
 package Lua
 
 import (
-	"GoLuaServerV2.1Test/Core/Utils/zLog"
-	"GoLuaServerV2.1Test/Core/Utils/zPbc"
-	"GoLuaServerV2.1Test/Core/Utils/ztimer"
+	"github.com/zgame/GameServer/client/Core/Utils/zLog"
+	"github.com/zgame/GameServer/client/Core/Utils/zPbc"
+	"github.com/zgame/GameServer/client/Core/Utils/ztimer"
 	"github.com/yuin/gopher-lua"
 	"time"
 	//mysql "github.com/tengattack/gluasql/mysql"

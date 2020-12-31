@@ -1,8 +1,8 @@
 package Lua
 
 import (
-	"GoLuaServerV2.1/Core/NetWork"
-	"GoLuaServerV2.1/Core/Utils/zLog"
+	"github.com/zgame/GameServer/server/Core/NetWork"
+	"github.com/zgame/GameServer/server/Core/Utils/zLog"
 )
 
 func ReadDataPackage( buf []byte, Uid int) (int,int,int,string) {
